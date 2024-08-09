@@ -1,0 +1,14 @@
+D:\Yazılım\Repository\Encapsulation\Encapsulation\bin\Debug\net8.0\Encapsulation.exe
+D:\Yazılım\Repository\Encapsulation\Encapsulation\bin\Debug\net8.0\Encapsulation.deps.json
+D:\Yazılım\Repository\Encapsulation\Encapsulation\bin\Debug\net8.0\Encapsulation.runtimeconfig.json
+D:\Yazılım\Repository\Encapsulation\Encapsulation\bin\Debug\net8.0\Encapsulation.dll
+D:\Yazılım\Repository\Encapsulation\Encapsulation\bin\Debug\net8.0\Encapsulation.pdb
+D:\Yazılım\Repository\Encapsulation\Encapsulation\obj\Debug\net8.0\Encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Yazılım\Repository\Encapsulation\Encapsulation\obj\Debug\net8.0\Encapsulation.AssemblyInfoInputs.cache
+D:\Yazılım\Repository\Encapsulation\Encapsulation\obj\Debug\net8.0\Encapsulation.AssemblyInfo.cs
+D:\Yazılım\Repository\Encapsulation\Encapsulation\obj\Debug\net8.0\Encapsulation.csproj.CoreCompileInputs.cache
+D:\Yazılım\Repository\Encapsulation\Encapsulation\obj\Debug\net8.0\Encapsulation.dll
+D:\Yazılım\Repository\Encapsulation\Encapsulation\obj\Debug\net8.0\refint\Encapsulation.dll
+D:\Yazılım\Repository\Encapsulation\Encapsulation\obj\Debug\net8.0\Encapsulation.pdb
+D:\Yazılım\Repository\Encapsulation\Encapsulation\obj\Debug\net8.0\Encapsulation.genruntimeconfig.cache
+D:\Yazılım\Repository\Encapsulation\Encapsulation\obj\Debug\net8.0\ref\Encapsulation.dll
